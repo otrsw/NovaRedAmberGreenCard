@@ -29,10 +29,10 @@ composer require otrsw/nova-red-amber-green-card
 
 ## Result 1
 
-![](img/red.PNG)
-![](img/amber.PNG)
-![](img/green.PNG)
+![](/img/red.PNG)
+![](/img/amber.PNG)
+![](/img/green.PNG)
 
 ## Result 2
 
-![](monitor_not_found.PNG)
+![](/img/monitor_not_found.PNG)
