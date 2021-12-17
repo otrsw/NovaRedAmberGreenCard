@@ -27,13 +27,9 @@ composer require otrsw/nova-red-amber-green-card
             (new NovaRedAmberGreenCard("b0807944-533e-4dce-a5a0-ec6871511fff"))->apiKey("api_key_2")->width('1/3'),
         ];
 
-## Result 1
+## screenshots
 <img src="img/red.png" width="200">
+<img src="img/amber.png" width="200">
+<img src="img/green.png" width="200">
+<img src="img/monitor_not_found.png" width="200">
 
-![](./img/red.png)
-![](./img/amber.png)
-![](./img/green.png)
-
-## Result 2
-
-![](./img/monitor_not_found.png)
