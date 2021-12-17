@@ -28,8 +28,9 @@ composer require otrsw/nova-red-amber-green-card
         ];
 
 ## Result 1
+<img src="img/red.png" width="200">
 
-![](./img/red.png =100x20)
+![](./img/red.png)
 ![](./img/amber.png)
 ![](./img/green.png)
 
