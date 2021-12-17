@@ -28,8 +28,9 @@ composer require otrsw/nova-red-amber-green-card
         ];
 
 ## screenshots
+
 <img src="img/red.png" width="200">
 <img src="img/amber.png" width="200">
 <img src="img/green.png" width="200">
 <img src="img/monitor_not_found.png" width="200">
-
+<img src="img/invalid_api_key.png" width="200">
