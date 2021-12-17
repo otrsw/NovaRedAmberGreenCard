@@ -29,7 +29,7 @@ composer require otrsw/nova-red-amber-green-card
 
 ## Result 1
 
-![](./img/red.png)
+![](./img/red.png =100x20)
 ![](./img/amber.png)
 ![](./img/green.png)
 
