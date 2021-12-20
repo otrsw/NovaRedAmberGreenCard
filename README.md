@@ -4,15 +4,15 @@ Laravel nova card
 
 ### Installation
 
-composer require otrsw/nova-red-amber-green-card
+composer require ontherocksoftware/nova-red-amber-green-card
 
 ## Config
 
-    php artisan vendor:publish --provider="Otrsw\NovaRedAmberGreenCard\CardServiceProvider" --tag="config"
+    php artisan vendor:publish --provider="Ontherocksoftware\NovaRedAmberGreenCard\CardServiceProvider" --tag="config"
 
 ## Usage
 
-        use Otrsw\NovaRedAmberGreenCard\NovaRedAmberGreenCard;
+        use Ontherocksoftware\NovaRedAmberGreenCard\NovaRedAmberGreenCard;
 
         //option 1 when all monitors under one account then all you need is to publish the config and set your api key.
         return [

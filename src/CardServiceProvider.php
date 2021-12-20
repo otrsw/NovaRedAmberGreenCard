@@ -1,6 +1,6 @@
 <?php
 
-namespace Otrsw\NovaRedAmberGreenCard;
+namespace Ontherocksoftware\NovaRedAmberGreenCard;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
