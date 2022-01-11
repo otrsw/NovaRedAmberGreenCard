@@ -1,3 +1,6 @@
 Nova.booting((Vue, router, store) => {
-    Vue.component("nova-red-amber-green-card", require("./components/Card"));
+  Vue.component(
+    "nova-red-amber-green-card",
+    require("./components/Card.vue").default
+  );
 });
