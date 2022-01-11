@@ -29,6 +29,7 @@ composer require ontherocksoftware/nova-red-amber-green-card
 
 ## screenshots
 
+<img src="img/loading.png" width="200">
 <img src="img/red.png" width="200">
 <img src="img/amber.png" width="200">
 <img src="img/green.png" width="200">
