@@ -1,6 +1,6 @@
-# Project Title
+# Nova Red Amber Green Card
 
-Laravel nova card
+Laravel nova card to show the monitor details.
 
 ### Installation
 
