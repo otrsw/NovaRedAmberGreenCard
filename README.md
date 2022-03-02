@@ -1,6 +1,6 @@
 # Nova Red Amber Green Card
 
-Laravel nova card to show the monitor details.
+Laravel nova card to show monitor status from red-amber.green.
 
 ### Installation
 
